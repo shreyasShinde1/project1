@@ -1,0 +1,213 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding:0;
+    color:white;
+    font-weight: 600;
+    background-color: black;
+}
+
+/* nav bar */
+.head-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    box-shadow: 5px 5px 5px 5px black ;
+    padding: 10px;
+    gap:10px;
+}
+#logo{
+    font-weight:600;
+    font-size:30px;
+    margin-right: 70px;
+}
+
+#search, #login , #explore , #rent{
+    padding: 5px;
+    width: 75px;
+    left: 958px;
+    top: 33px;
+    background: #262626;
+    border-radius: 10px;
+}
+#login , #explore , #rent{
+    text-align: center; 
+
+}
+#search{
+    padding: 10px;
+    border: none;
+    display: flex;
+    width:  597px;
+    color:white;
+}
+#banner{
+    background-color:#262626;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 10px;
+}
+#banner1 h4 {
+    color: white;
+    margin-top: 30px;
+    font-size: 30px;
+}
+#banner1 p{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    
+}
+#banner1 img{
+    margin: 20px;
+    border-radius: 50px;
+    background-color: yellow;
+    padding: 10px;
+}
+#bt1{
+background-color: yellow;
+border: 2px solid yellow;
+font-size: 30px; 
+font-weight: 30px;
+border-radius: 30px;
+
+
+}
+#clock img{
+    margin-bottom: 60px;
+    border-radius: 160px;
+    border-color: black;
+    background-color: yellow;
+}
+#clock button{
+    padding-right: 10px;
+    margin-right: 10px;
+
+}
+
+#footer{
+    background-color:#262626;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 10px;
+}
+f{
+    font-size: 20px;
+    color: white;
+    font-weight: 30px;
+}
+.poi ul{
+    list-style: none;
+}
+.poi1 ul{
+    list-style: none;
+}
+#card1{
+background-color: #262626;
+color: white;
+margin: 10px;
+padding: 10px;
+
+}
+#b1{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+    font-size: 20px;
+    font-weight: 100px;
+    float: right;
+}
+#card2{
+    background-color: #262626;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+    }
+
+   #b2{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+    font-size: 20px;
+    font-weight: 100px;
+    float: right;
+}
+#card3{
+    background-color: #262626;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+    }
+
+   #b3{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+    font-size: 20px;
+    font-weight: 100px;
+    float: right;
+}
+#card4{
+    background-color: #262626;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+    }
+
+   #b4{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+    font-size: 20px;
+    font-weight: 100px;
+    float: right;
+}
+#card5{
+    background-color: #262626;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+    }
+
+   #b5{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+    font-size: 20px;
+    font-weight: 100px;
+    float: right;
+}
+#card6{
+    background-color: #262626;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+    }
+
+   #b6{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+    font-size: 20px;
+    font-weight: 100px;
+    float: right;
+}
